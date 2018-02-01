@@ -41,7 +41,7 @@ public class AddressBook {
     public static void main(String[] args) {
         for (String m : new String[]{"===================================================",
                 "===================================================",
-                "AddessBook Level 0 - Version 1.0", "Welcome to your Address Book!",
+                "AddessBook Level 0 - Version 0.1", "Welcome to your Address Book!",
                 "==================================================="}) {
             System.out.println("|| " + m);
         }
